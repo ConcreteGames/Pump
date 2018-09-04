@@ -11,6 +11,7 @@
 ## Plugins
 
 - [Low Entry - Extended Standard Library](https://www.unrealengine.com/marketplace/low-entry-extended-standard-library)
+- [Fmod Studio - Version 1.10.08 for UE4 4.20] (https://www.fmod.com/download#integrations)
 
 
 
