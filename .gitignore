@@ -79,3 +79,5 @@ DerivedDataCache/*
 # Plugins
 Plugins/*
 
+#Developers Folder
+Developers/*
