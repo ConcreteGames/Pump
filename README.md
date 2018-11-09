@@ -12,7 +12,7 @@
 
 - [Low Entry - LE Extended Standard Library]https://www.unrealengine.com/marketplace/low-entry-extended-standard-library
 - [Allegorithmic - Substance in Unreal Engine] https://www.unrealengine.com/marketplace/substance-plugin
-- [Fmod Studio - Version 1.10.08 for UE4 4.20] https://www.fmod.com/download#integrations
+- [Fmod Studio - Version 1.10.09 for UE4 4.20] https://www.fmod.com/download#integrations
 
 
 
